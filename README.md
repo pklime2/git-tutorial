@@ -5,3 +5,4 @@ Craig Was Here
 Corne was here ;)
 Corne was here again. 
 Corne-edit file oneline for test
+Corne - adding new comment
